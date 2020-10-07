@@ -7,10 +7,11 @@ If you like coding, you will love it.
 Hyperskill: hyperskill.org
 JetBrains: jetbrains.com
 
+# Projects:
 Project in progress: Chat Bot
 
 Projects finished: Zookeeper
 
-
+# Credits:
 This was made official by SBtree-bit.
 # Note: This has all of my Python projects, not just stuff from Hyperskill.
