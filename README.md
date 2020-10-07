@@ -7,4 +7,8 @@ Useful links:
 Hyperskill: hyperskill.org
 JetBrains: jetbrains.com
 
+Project in progress: Chat Bot
+Projects finished: Zookeeper
+
+
 This was made official by SBtree-bit.
