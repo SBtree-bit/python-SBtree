@@ -8,6 +8,7 @@ Hyperskill: hyperskill.org
 JetBrains: jetbrains.com
 
 Project in progress: Chat Bot
+
 Projects finished: Zookeeper
 
 
