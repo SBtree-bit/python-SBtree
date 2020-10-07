@@ -1,5 +1,5 @@
 # What is Hyperskill?
-This is a whole repo devoted to my Hyperskill projects. I hope you like it!
+This is a whole repo devoted to my Python projects. I hope you like it!
 Hyperskill helps you learn how to code with fun projects.
 If you like coding, you will love it.
 
@@ -8,9 +8,9 @@ Hyperskill: hyperskill.org
 JetBrains: jetbrains.com
 
 # Projects:
-Project in progress: Chat Bot
+Project in progress: Hangman
 
-Projects finished: Zookeeper
+Projects finished: Zookeeper(zookeeper.py), Chat Bot(bot.py)
 
 # Credits:
 This was made official by SBtree-bit.
